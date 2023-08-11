@@ -56,6 +56,11 @@ Identificar as transformações necessárias para limpar, enriquecer e formatar 
 - Teste de Integração: Executar o fluxo completo do ETL, desde a extração até a carga no Data Warehouse, para verificar a integridade dos dados e a conformidade com as regras de negócios.
 
 
+![ssis](https://github.com/DeboraSouza277/Carga-Dados-para-Data-Warehouse-com-SSIS/blob/main/SSIS_Package.PNG)
+
+
+
+
 
 
 
