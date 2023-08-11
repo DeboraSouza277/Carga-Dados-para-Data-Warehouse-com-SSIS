@@ -57,6 +57,9 @@ Identificar as transformações necessárias para limpar, enriquecer e formatar 
 - Teste de Integração: Executar o fluxo completo do ETL, desde a extração até a carga no Data Warehouse, para verificar a integridade dos dados e a conformidade com as regras de negócios.
 
 ## 🧰 Ferramentas:
+- SQL Server Integration Services (SSIS)
+- Banco de Dados do Data Warehouse criado no SQL Server.
+- SQL Power Architect
 
 ## 📊 Resultado:
 ![ssis](https://github.com/DeboraSouza277/Carga-Dados-para-Data-Warehouse-com-SSIS/blob/main/SSIS_Package.PNG)
