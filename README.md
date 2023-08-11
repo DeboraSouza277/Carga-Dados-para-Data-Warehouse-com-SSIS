@@ -29,6 +29,7 @@ Identificar as transformações necessárias para limpar, enriquecer e formatar 
 
 
 #### Passo 3: Transformação dos Dados
+- Transformações ao fluxo de dados para limpar, validar e transformar os dados conforme necessário.
 
 
 #### Passo 4: Carga no Staging Area
