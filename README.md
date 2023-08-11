@@ -1,12 +1,12 @@
 # Carga-Dados-para-Data-Warehouse-com-SSIS
 
-## Objetivo:
+## 👩🏾‍💻 Objetivo:
 O projeto "Carga Dados para Data Warehouse com o SSIS" é uma solução de Business Intelligence que visa centralizar os dados de várias fontes em um único local (Data Warehouse) utilizando o SQL Server Integration Services (SSIS).
 
 O objetivo é demonstrar a criação de um fluxo de ETL (Extração, Transformação e Carga) que extrai dados da fonte de banco de dados SQL Server, realiza transformações e carrega os dados em um Staging Area e, posteriormente, no Data Warehouse.
 
 
-## Passos do Projeto:
+## 📚 Passos do Projeto:
 
 #### Passo 1: Definição e Planejamento
 
@@ -55,7 +55,9 @@ Identificar as transformações necessárias para limpar, enriquecer e formatar 
 
 - Teste de Integração: Executar o fluxo completo do ETL, desde a extração até a carga no Data Warehouse, para verificar a integridade dos dados e a conformidade com as regras de negócios.
 
+## 🧰 Ferramentas:
 
+## 📊 Resultado:
 ![ssis](https://github.com/DeboraSouza277/Carga-Dados-para-Data-Warehouse-com-SSIS/blob/main/SSIS_Package.PNG)
 
 
