@@ -1,4 +1,4 @@
-# Carga-Dados-para-Data-Warehouse-com-SSIS
+# Data-Warehouse-com-SSIS
 
 ## 👩🏾‍💻 Objetivo:
 O projeto "Carga Dados para Data Warehouse com o SSIS" é uma solução de Business Intelligence que visa centralizar os dados de várias fontes em um único local (Data Warehouse) utilizando o SQL Server Integration Services (SSIS).
