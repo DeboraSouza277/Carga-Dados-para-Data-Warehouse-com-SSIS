@@ -8,7 +8,7 @@ O objetivo é demonstrar a criação de um fluxo de ETL (Extração, Transforma�
 
 ## 📚 Passos do Projeto:
 
-#### Passo 1: Definição e Planejamento
+#### Passo 1: Definição e Planejamento.
 
 - Definir os Requisitos:
 Compreender as necessidades da empresa e dos usuários, como quais dados precisam ser carregados, com que frequência e quais transformações são necessárias.
